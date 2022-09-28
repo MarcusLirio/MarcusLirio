@@ -4,9 +4,9 @@
 # Marcus Lirio😃
 Sr. Software Consultant
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcusLirio&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusLirio&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusLirio)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusLirio&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧐 About
 Sr. Software Consultant, who likes to code and coffe. I'm always learning new things to help others achieve great things with technology.
