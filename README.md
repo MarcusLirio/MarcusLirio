@@ -1,23 +1,19 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Marcus&#8208;Lirio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-lirio-a61ab8202/)](https://www.linkedin.com/in/marcus-vinicius-lirio-a61ab8202/)
 
-# Marcus Lirio😃
-Sr. Software Consultant
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusLirio&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusLirio&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🧐 About
-Sr. Software Consultant, who likes to code and coffe. I'm always learning new things to help others achieve great things with technology.
-
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **Angular 2+, HTML, CSS, Javascript and Typescript**
-- Backend development using **ASP.NET Core, ASP.NET Framework and Node.js**
-- Virtualization with **Docker and AWS EC2**
-- Source Control using **GIT**
-- Agile Methodologies
-
-## 📫 Contact Me
-- LinkedIn - [Here](https://www.linkedin.com/in/marcus-vinicius-lirio-a61ab8202/)
+<div align="center">
+  <a href="https://github.com/MarcusLirio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusLirio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusLirio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
