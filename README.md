@@ -21,6 +21,5 @@
             <img style="align-items:center;" alt="Rafa-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
             <img style="align-items:center;" alt="Rafa-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
             <img style="align-items:center;" alt="Rafa-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-            <img style="align-items:center;" alt="Rafa-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nest/nest-original.svg">
 </div>
 
